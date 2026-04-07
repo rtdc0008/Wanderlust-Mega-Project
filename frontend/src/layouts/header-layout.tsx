@@ -12,6 +12,9 @@ function header() {
         <div className="flex w-full justify-between">
           <div className="flex cursor-text items-center justify-between text-2xl font-semibold">
             Piyush-The Rand Website
+            RATE: 500 Blowjob!!!!!
+                  10 Halvun dene!!!!
+                  1000 Made Tychich Gandit to swatacha lavda ghalnar
           </div>
           <div className="flex justify-between px-2">
             <div className="flex items-center justify-end px-2 py-2 md:px-20">
